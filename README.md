@@ -1,4 +1,6 @@
 Amazon Otomasyon Test Projesi
+
+
 Bu proje, Amazon web sitesindeki bazı temel işlemleri otomatikleştirmek için Selenium, Java ve TestNG kullanılarak geliştirilmiştir.
 
 Nasıl Kullanılır?
